@@ -22677,7 +22677,7 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	var API_KEY = '4924daae5195b06dea21c47bd876c5a3';
-	var ROOT_URL = 'http://api.openweathermap.org/data/2.5/forecast?mode=json&appid=' + API_KEY;
+	var ROOT_URL = 'https://crossorigin.me/http://api.openweathermap.org/data/2.5/forecast?mode=json&appid=' + API_KEY;
 
 	var FETCH_WEATHER = exports.FETCH_WEATHER = 'FETCH_WEATHER';
 
